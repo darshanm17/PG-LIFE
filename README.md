@@ -28,8 +28,12 @@ To run this website locally on your machine using XAMPP, follow these steps:
 
 5. **Accessing the Website**:
    - Open your web browser and navigate to `http://localhost/pglife`.
+![Screenshot (80)](https://github.com/darshanm17/PG-LIFE/assets/116059183/15af4f2b-5bae-41e0-aaf1-065df71f8bf7)
+![Screenshot (81)](https://github.com/darshanm17/PG-LIFE/assets/116059183/d26f9437-0749-4d99-b262-880ec786f1b5)
+![Screenshot (86)](https://github.com/darshanm17/PG-LIFE/assets/116059183/0c58109d-cfbe-4ce5-ac41-b767ba912d78)
 
 ## Usage
+
 Once the setup is complete, you can access the PG Life website locally and explore its features.
 
 ## Contributing
