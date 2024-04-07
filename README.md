@@ -16,7 +16,7 @@ To run this website locally on your machine using XAMPP, follow these steps:
    - Open XAMPP Control Panel and start the Apache and MySQL services.
    - In your web browser, navigate to `http://localhost/phpmyadmin`.
    - Create a new database named `pglife`.
-   - Import the provided SQL file `pglife.sql` to create all the necessary tables in the `pglife` database.
+   - Import the provided SQL file `pglife tables.sql` to create all the necessary tables in the `pglife` database.
    - Import the provided dummy data SQL file `dummy_data.sql` to populate the tables with sample data.
 
 4. **Database Connection**:
